@@ -1,0 +1,17 @@
+
+.px-2 {
+    background-color: #C5E6FF;
+    border-radius: 10px;
+}
+
+.gi{
+    background-color: #C5E6FF;
+    border-radius: 10px; 
+}
+.b{
+display: inline-flex;
+}
+.under{
+    font-weight: 500;
+    color: #3266A4;
+}

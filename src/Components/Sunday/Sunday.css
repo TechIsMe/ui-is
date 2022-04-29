@@ -1,0 +1,28 @@
+.sunday .mb-3{
+    border-radius: --10px !important;
+}
+.sunday .card-body{
+    background-color: #C5E6FF !important;
+    
+    border-radius: 10px;
+    margin-top: -10px;
+    
+}
+
+.text-left{
+    display: flex;
+
+}
+
+ .price{
+    justify-content: end;
+    margin-left: 350px;
+    color: black;
+ }
+
+ .under .text-primary{
+     text-decoration: underline;
+     font-weight: 500;
+     color: #3266A4;
+
+ }

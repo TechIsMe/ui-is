@@ -1,0 +1,15 @@
+
+  .social{
+    padding: 10px;
+  }
+
+  .icon-social{
+    display: flex;
+    justify-content: space-around;
+
+  }
+
+  .footer{
+    background-color:  #3266A4;
+    color: white;  
+  }
