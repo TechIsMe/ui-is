@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TechIsMe/ui-is/static/css/main.ad2250e1.css",
+    "main.js": "/TechIsMe/ui-is/static/js/main.9b3aba81.js",
+    "static/js/787.e692d53a.chunk.js": "/TechIsMe/ui-is/static/js/787.e692d53a.chunk.js",
+    "static/media/Jumbotron.jpg": "/TechIsMe/ui-is/static/media/Jumbotron.9d72590eadd9ee3e184a.jpg",
+    "static/media/Sunday-Special.jpg": "/TechIsMe/ui-is/static/media/Sunday-Special.a95a759a85035e4cfe17.jpg",
+    "static/media/Sprinkles-Sundae.jpg": "/TechIsMe/ui-is/static/media/Sprinkles-Sundae.6cc4f357586643d61176.jpg",
+    "static/media/Rasberry-Ice-Cream.jpg": "/TechIsMe/ui-is/static/media/Rasberry-Ice-Cream.3b07fa2aeae353e5268b.jpg",
+    "static/media/Rewards.jpg": "/TechIsMe/ui-is/static/media/Rewards.eff5d0b359bde7b0b1a0.jpg",
+    "static/media/Ice-Cream-Cake.jpg": "/TechIsMe/ui-is/static/media/Ice-Cream-Cake.6511e55ca08742503bf7.jpg",
+    "static/media/Strawberry-Sundae.jpg": "/TechIsMe/ui-is/static/media/Strawberry-Sundae.985a17a5ffead35ff73b.jpg",
+    "static/media/Gift-Card.jpg": "/TechIsMe/ui-is/static/media/Gift-Card.8b7a3904a91f9333b3b5.jpg",
+    "index.html": "/TechIsMe/ui-is/index.html",
+    "main.ad2250e1.css.map": "/TechIsMe/ui-is/static/css/main.ad2250e1.css.map",
+    "main.9b3aba81.js.map": "/TechIsMe/ui-is/static/js/main.9b3aba81.js.map",
+    "787.e692d53a.chunk.js.map": "/TechIsMe/ui-is/static/js/787.e692d53a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad2250e1.css",
+    "static/js/main.9b3aba81.js"
+  ]
+}
