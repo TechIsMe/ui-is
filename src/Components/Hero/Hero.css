@@ -1,6 +1,7 @@
 .hero{
     height: 80vh;
     background-image: url('../Assets/images/Jumbotron.jpg');
+    background-position: center;
     height: 80vh;
     background-size: cover;
     padding-top: 8vh;

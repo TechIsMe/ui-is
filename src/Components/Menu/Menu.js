@@ -51,7 +51,7 @@ function Menu() {
                 <Card.Title className="text-white">Ice-Cream- Cake</Card.Title>
                 <Card.Text className="text-white">
                   Some quick example text to build on the card title and make up
-                  the bulk of the card's content the bulk of the card's content.
+                  the bulk of the card's content the bulk of the.
                 </Card.Text>
               </Card.Body>
             </Card>
