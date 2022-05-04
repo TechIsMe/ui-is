@@ -32,6 +32,7 @@ import './Sunday.css'
     <Col md={6}>
     <Card className="mb-3 ">
     <img  src={Sun} className="card-img-top" alt="ras" fluid/>
+    
     <Card.Body>
         <Card.Title className='text-center'>Ice-Cream-Cake</Card.Title>
         <Card.Text>

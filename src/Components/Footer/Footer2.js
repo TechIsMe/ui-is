@@ -17,8 +17,7 @@ function Footer2() {
 
         <Col sm={3}>
             <div className='icon-social mx-3'>
-                <div className='social mx-3 px-3 '> 
-               <i > <FaFacebook /></i></div>
+                <div className='social mx-3 px-3 '><i > <FaFacebook /></i></div>
                 <div className='social'> <i> <FaInstagram/></i></div>
                <div className='social'>  <i> <FaTwitter /></i> </div>
                </div>

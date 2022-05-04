@@ -1,28 +1,40 @@
-.sunday .mb-3{
-    border-radius: --10px !important;
-}
-.sunday .card-body{
-    background-color: #C5E6FF !important;
+    .sunday .mb-3{
+        border-radius: -10px !important;
+    }
+    .sunday .card-body{
+        background-color: #C5E6FF !important;
+        
+        border-radius: 10px;
+        margin-top: -10px;
+        
+    }
+
+    .text-left{
+        display: flex;
+
+    }
+
+    .price{
+        justify-content: end;
+        margin-left: 350px;
+        color: black;
+    }
+
+    .under .text-primary{
+        text-decoration: underline;
+        font-weight: 500;
+        color: #3266A4;
+
+    }
+ /* .mb-6:hover{
+        background-color: rgb(22, 78, 82);
+        transform: scale(0.6);
+        transition-duration: 0.5s;
+    } */
     
-    border-radius: 10px;
-    margin-top: -10px;
-    
+.card:hover{
+    background-color: rgb(61, 23, 6);
+    transform: scale(0.8);
+    transition-duration: 0.8s;
 }
 
-.text-left{
-    display: flex;
-
-}
-
- .price{
-    justify-content: end;
-    margin-left: 350px;
-    color: black;
- }
-
- .under .text-primary{
-     text-decoration: underline;
-     font-weight: 500;
-     color: #3266A4;
-
- }

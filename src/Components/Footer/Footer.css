@@ -13,3 +13,15 @@
     background-color:  #3266A4;
     color: white;  
   }
+
+  .p-2:hover{
+    transform: scale(0.9);
+    transition-duration: 0.8s;
+    color: #e5ebf0;
+}
+
+.social:hover{
+  transform: scale(0.5);
+  transition-duration: 0.8s;
+  color: #e5ebf0;
+}

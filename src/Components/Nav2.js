@@ -5,7 +5,7 @@ import {Card} from 'react-bootstrap';
 function Nav2() {
   return (
     <div>Nav2
-         <Card>
+        <Card>
     <Card.Img variant="top" src="holder.js/100px180" />
     <Card.Body>
       <Card.Text>
@@ -18,4 +18,4 @@ function Nav2() {
   )
 }
 
-export default Nav2
+export default Nav2;

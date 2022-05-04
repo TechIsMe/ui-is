@@ -16,11 +16,7 @@ function Navfar() {
         <i className='se'>Sensible </i>
       <img src={Noto} height={30} width={30} alt="/"/>  
       <i className='se'>Sundaes </i>
-
-
-
       <FaSearch className='ml-3'/>
-
       </Navbar.Brand>
     </Container>
   </Navbar>
@@ -33,6 +29,7 @@ function Navfar() {
     </Nav.Link>
   </Nav.Item>
   <Nav.Item>
+    
     <Nav.Link eventKey="disabled " disabled>
       <i className='text-white'>Spacial </i> 
     </Nav.Link>
@@ -41,6 +38,7 @@ function Navfar() {
     <Nav.Link eventKey="disabled" disabled>
     <i className='text-white'> OurStory</i>
     </Nav.Link>
+    
   </Nav.Item>
 </Nav>
 </div>
